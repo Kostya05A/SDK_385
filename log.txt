@@ -1,0 +1,10 @@
+#!/bin/bash
+
+x=1
+y=0
+while [ $x-it2 ]
+do
+y=$(($y+1))
+echo "$y press f"
+sleep 1
+done
